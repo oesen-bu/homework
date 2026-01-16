@@ -1,4 +1,4 @@
-# DX 602 Homework 01
+# DX 602 Homework
 
 ## Instructions
 
